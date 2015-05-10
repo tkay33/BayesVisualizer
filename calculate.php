@@ -10,7 +10,7 @@
   </head>
   <body>
     <header>
-      <a href="index.html" id="logo">
+      <a href="index.php" id="logo">
         <h1>Bayes Visualizer</h1>
         <h2>Diagnostic Test Recommender</h2>
       </a>
